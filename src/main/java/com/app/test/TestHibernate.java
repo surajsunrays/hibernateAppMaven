@@ -6,7 +6,7 @@ import com.app.util.HibernateUtil;
 import org.hibernate.Hibernate;
 import org.hibernate.Session;
 import org.hibernate.Transaction;
-
+// This program is successfully running the pipeline.
 public class TestHibernate {
     public static void main(String[] args) {
         Transaction tx = null;
